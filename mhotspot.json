@@ -1,0 +1,24 @@
+{
+  "wooden_tableV1.glb": [
+    {
+      "slot": "hotspot-1",
+      "position": "0.15m 1.07m 0.95m",
+      "normal": "0m 1m 0m",
+      "label": "Top Desk"
+    }
+  ],
+  "chair_model.glb": [
+    {
+      "slot": "hotspot-1",
+      "position": "0.1m 0.9m 0.3m",
+      "normal": "0m 1m 0m",
+      "label": "Seat"
+    },
+    {
+      "slot": "hotspot-2",
+      "position": "0m 1.2m 0m",
+      "normal": "0m 1m 0m",
+      "label": "Backrest"
+    }
+  ]
+}
